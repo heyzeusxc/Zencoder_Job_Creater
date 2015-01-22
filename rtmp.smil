@@ -1,0 +1,13 @@
+<smil>
+  <head>
+    <meta base="rtmp://rtmp.live.zencdn.net/live/" />
+  </head>
+  <body>
+    <switch>
+	  <video src="3eae7cebbe87a3e75741940cf7bb032f_91537_500@107421" height="720" system-bitrate="596000" width="1280" title="Fullscreen Best - 720p/30" />
+	  <video src="928b281540070263b3ae03157e882e22_91537_300@107412" height="720" system-bitrate="396000" width="1280" title="Fullscreen Low - 720p/15" />
+	  <video src="88852c4ae91148c84723c4272d6ebee2_91537_400@107415" height="432" system-bitrate="496000" width="768" title="Window Best - 432p/30" />
+	  <video src="0b15bf7c3e68b35d330b06c13d9245a6_91537_200@107417" height="432" system-bitrate="296000" width="768" title="Window Low - 432p/15" />
+    </switch>
+  </body>
+</smil>
